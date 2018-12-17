@@ -1,0 +1,9 @@
+Il faudrait mettre en interface les classes Joueur et Championnat, les classes qui implémenterons cette interface seront les ClasseNiveau
+et les ChampionnatCategorie (avec différentes catégories) on pourait donc créer des méthodes différentes en fonction des catégories de championnat.
+
+Dans la classe championnat il faut rajouter un constructeur
+
+
+Correction:
+Supprimer le getCategorie dans un joueur et le mettre dans catégorie(elle y est déja)
+Supprimer le getJoueur dans Championnat.

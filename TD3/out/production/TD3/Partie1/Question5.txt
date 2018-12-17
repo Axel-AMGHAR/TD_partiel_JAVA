@@ -1,0 +1,2 @@
+Le visiteur permet de créer plusieurs méthodes pour plusieurs objets, alors que le pattern stratégie permet de créer plusieurs méthodes
+pour un objet.

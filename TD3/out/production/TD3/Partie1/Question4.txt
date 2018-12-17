@@ -1,0 +1,1 @@
+Le contrat avec la classe mère signifie que la classe fille doit implémenter les méthodes abstraites de la classe mère.

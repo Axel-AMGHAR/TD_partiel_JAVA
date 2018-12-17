@@ -1,0 +1,2 @@
+On ne peut extends qu'une seule classe abstraite alors que l'on peut implémenter sur une même classe plusieurs interfaces( hériateg multiple).
+Pas de variables d'instance dans une interface, seulement des constantes.

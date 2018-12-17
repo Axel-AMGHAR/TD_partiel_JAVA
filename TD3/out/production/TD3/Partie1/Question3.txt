@@ -1,0 +1,5 @@
+Le modèle de conception builder permet lors de la construction de l'objet de choisir le nombre d'attributs à construire en
+mettant le nombre d'attributs souhaité en paramétre lors de la construction.
+
+Si l'on utilise des modifieurs à la place, il faudrait donc apeller plusieurs méthodes, le constructeur par défault, puis autant de modifieurs
+que d'attributs à construire.
